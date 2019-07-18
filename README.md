@@ -47,3 +47,10 @@ this included software was got from their release page and not changed at all. t
 
 ## Enjoy !
 
+## screenshots
+![0](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/0.jpg?raw=true)
+![1](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/1.jpg?raw=true)
+![2](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/2.jpg?raw=true)
+![3](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/3.jpg?raw=true)
+![4](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/4.jpg?raw=true)
+![5](https://github.com/team-mercure/mercury/blob/master/switch/mercury/screenshots/5.jpg?raw=true)
