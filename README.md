@@ -37,6 +37,8 @@ Vertigo !
 #### CalculatorNX https://github.com/thomleg50/Calculator-NX
 #### Blawar https://github.com/blawar/incognito https://tinfoil.io https://gbatemp.net/threads/mm-linx-super-mario-maker-2-level-injector.542389/
 #### FlagBrew https://github.com/FlagBrew/Checkpoint/
+#### rajkosto https://switchtools.sshnuke.net/
+#### liuervehc https://github.com/liuervehc/nxmtp/
 
 this included software was got from their release page and not changed at all. their license is the same obviosuly and we do not infringe it by including it in our package.
 
