@@ -13,6 +13,7 @@ Vertigo !
 
 ### Tinfoil by blawar hacked and reverse enginnered professionaly on the moon with NASA toolkit by thomleg50 & gaavin
 ### hbmenu reimplementaion is invented by team mercure and closed source forever.
+### [screenshots](https://github.com/team-mercure/mercury/tree/master/switch/mercury/screenshots)
 
 ### revolutionary unbanana by thomleg50 unbans your switch from nintendo 
 
