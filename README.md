@@ -33,7 +33,6 @@ Vertigo !
 ## Credits to :
 
 #### ReiNX https://github.com/Reisyukaku/ReiNX https://github.com/Reisyukaku/ReiNXToolkit
-#### Retroarch https://github.com/libretro/RetroArch
 #### HBMenu, HBLoader https://github.com/switchbrew/
 #### CalculatorNX https://github.com/thomleg50/Calculator-NX
 #### Blawar https://github.com/blawar/incognito https://tinfoil.io https://gbatemp.net/threads/mm-linx-super-mario-maker-2-level-injector.542389/
