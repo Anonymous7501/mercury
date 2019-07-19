@@ -16,6 +16,7 @@ Vertigo !
 ### [screenshots](https://github.com/team-mercure/mercury/tree/master/switch/mercury/screenshots)
 
 ### revolutionary unbanana by thomleg50 unbans your switch from nintendo 
+## unbanana is encrypted to prevent theft by Team Xecuter! Unbanana works only with mercury!
 
 #### a) homebrew launching
 #### b) nsp launching
